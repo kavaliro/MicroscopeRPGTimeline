@@ -10,7 +10,7 @@
 
 ## Purpose
 
-This git repository is for playing the game {Microscope, from Lame Mage Productions.](http://www.lamemage.com/microscope/) 
+This git repository is for playing the game [Microscope, from Lame Mage Productions.](http://www.lamemage.com/microscope/) 
 
 ### Wait, _what is_ Microscope?
 
