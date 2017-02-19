@@ -1,5 +1,13 @@
 # Microscope RPG Timeline
 
+* [Rules Modifications.](rules.md)
+
+* [Big Picture.](bigpicture.md)
+
+* [Palette.](palette.md)
+
+* [History.](history.md)
+
 ## Purpose
 
 This git repository is for playing the game {Microscope, from Lame Mage Productions.](http://www.lamemage.com/microscope/) 
