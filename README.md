@@ -12,15 +12,15 @@
 
 This git repository is for playing the game [Microscope, from Lame Mage Productions.](http://www.lamemage.com/microscope/) 
 
-### Wait, _what is_ Microscope?
+### Wait, *what is* Microscope?
 
 From Lame Mage's website:
 
-> Humanity spreads to the stars and forges a galactic civilization…
+> *Humanity spreads to the stars and forges a galactic civilization…*
 
-> Fledgling nations arise from the ruins of the empire…
+> *Fledgling nations arise from the ruins of the empire…*
 
-> An ancient line of dragon-kings dies out as magic fades from the realm…
+> *An ancient line of dragon-kings dies out as magic fades from the realm…*
 
 > These are all examples of Microscope games. Want to explore an epic history of your own creation, hundreds or thousands of years long, all in an afternoon? That's Microscope.
 
